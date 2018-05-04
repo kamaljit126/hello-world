@@ -1,2 +1,3 @@
 # hello-world
-Just another repository 
+Hi Friends
+KAMAL here. I like to explore beautiful places which nature has to offer
